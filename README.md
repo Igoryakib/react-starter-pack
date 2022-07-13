@@ -5,8 +5,11 @@
 
 # Команди стартер-паку:
 
-# npm start - запуск
-# npm run build - створення bulid версії 
-# npm run deploy - деплой додатку на платформу Netlify
+# npm start 
+- запуск
+# npm run build 
+- створення bulid версії 
+# npm run deploy 
+- деплой додатку на платформу Netlify
 
 Це всі необхідні комани :)
